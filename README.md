@@ -3,6 +3,7 @@ Giới Thiệu tổng OOP Java
 File code java sẽ minh họa cách áp dụng 4 tính chất của OOP vào vào thực tế:
 
 *Tính Trừu tượng (Abstraction)
+
 Abstract class Employee
 
 Định nghĩa khung sườn chung cho mọi nhân viên gồm id, name, baseSalary;
